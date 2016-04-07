@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="HardcodedText" severity="ignore">
+        <ignore path="res/layout/activity_base_interface.xml" />
+        <ignore path="res/layout/activity_main.xml" />
+        <ignore path="res/layout/base_interface.xml" />
+        <ignore path="res/layout/base_interface2.xml" />
+    </issue>
+    <issue id="NewApi" severity="ignore" />
+    <issue id="RtlHardcoded">
+        <ignore path="res/layout/activity_base_interface.xml" />
+        <ignore path="res/layout/activity_main.xml" />
+        <ignore path="res/layout/base_interface.xml" />
+        <ignore path="res/layout/base_interface2.xml" />
+    </issue>
+    <issue id="SmallSp">
+        <ignore path="res/layout/activity_base_interface.xml" />
+    </issue>
+    <issue id="TextFields">
+        <ignore path="res/layout/activity_base_interface.xml" />
+    </issue>
+</lint>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item 	android:title="Wyłącz dźwięk"
+        	android:id="@+id/toggle_mute"
+        	android:checkable="true"></item>
+    <item 	android:title="Odblokuj system" 
+        	android:id="@+id/toggle_unblock"
+        	android:checkable="true"></item>
+    <item 	android:title="Połącz z urządzeniem BT" 
+        	android:id="@+id/connectBT"></item>
+    <item 	android:title="[debug] Przekrocz prędkość" 
+        	android:id="@+id/addSpeed"></item>
+    <item 	android:title="[debug] Ustaw limit" 
+        	android:id="@+id/setLimit"></item>
+    <item 	android:title="[debug] Wyślij pakiet przez BT" 
+        	android:id="@+id/sendBT"></item>
+</menu>

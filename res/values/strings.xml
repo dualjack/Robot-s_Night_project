@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GoSafe!</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="mainMenuHeader">"System kontroli rodzicielskiej "</string>
+    <string name="uruchom">Run</string>
+    <string name="runApp">Uruchom Aplikację</string>
+    <string name="title_activity_testactivity">Testactivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_start">StartActivity</string>
+
+</resources>
